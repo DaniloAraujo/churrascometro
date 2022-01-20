@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarala&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+.container{
+    max-width: 400px;
+    margin: auto;
+    background-color: #AEDDC6;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Sarala', sans-serif;
+}
+h1{
+    margin-top: 0;
+    margin-left: 85px;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 7px;
+    height: 45px;
+}
+
+button{
+    height: 40px;
+    width: 70px;
+}
+
+#resultado{
+    font-family: 'Nunito', sans-serif;
+}
